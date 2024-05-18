@@ -1,2 +1,18 @@
 1-git init : permet dinitialier un repository en local
-2-
+2-git add --all /git add . : permet ajout les fichiers au stging area
+
+3- git status : avoir les mise a jour sur le repo
+4- git commit -m "message" pour envoyer les mises a jour sur le repo
+5- git log : permet de lister  
+6- git config --global user.email "haytheminfo@gmail.com"
+7- git config --global user.name "haythem"
+8- git commit -m "first commit"
+9-git remote add origin https://github.com/haytheminfo/taskforce-projet.git
+10-git push -u origin master
+
+
+****************mise a jour
+git add --all
+git commit -m "2 commit"
+git puch
+
