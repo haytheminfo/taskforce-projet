@@ -1,0 +1,2 @@
+1-git init : permet dinitialier un repository en local
+2-
